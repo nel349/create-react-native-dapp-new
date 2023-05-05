@@ -467,7 +467,7 @@ const preparePackage = (ctx: createContext) =>
       'devDependencies.gh-pages': '^3.2.3',
       'devDependencies.jest': '26.6.3',
       'devDependencies.react-test-renderer': '17.0.1',
-      'devDependencies.ts-node': '9.1.1',
+      'devDependencies.ts-node': '^10.9.1',
       // react-native
       'react-native.stream': 'react-native-stream',
       'react-native.crypto': 'react-native-crypto',
